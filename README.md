@@ -1,5 +1,5 @@
-Cordova 3.x Tutorial with RESTful Authorization to Drupal
-=========================================================
+Extentions to the Cordova 3.x Tutorial with RESTful Authorization to Drupal
+===========================================================================
 
 Extentions added to the great tutorial bu Christphe Coenraets as found here:
 
